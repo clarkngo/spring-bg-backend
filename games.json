@@ -1,0 +1,10 @@
+{
+    "games": [
+        {
+            "id": 0,
+            "title": "Splendor",
+            "min_players": 2,
+            "max_players": 4
+        }
+    ]
+}
